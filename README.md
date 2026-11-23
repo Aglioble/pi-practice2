@@ -96,7 +96,6 @@ flowchart TB
     class SCH,CM,MCP,DUR,ENV absent;
 ```
 
-![关系图](images/graph.png)
 
 \\### 结合分析回答
 \\#### 1. 根目录与子模块中的 `npm run build` 分别读取什么配置、执行什么工作？
